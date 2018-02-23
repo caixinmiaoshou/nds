@@ -1,1 +1,3 @@
 mgs.error=this is error
+msg.info = this is info
+msg.ok = this is ok
